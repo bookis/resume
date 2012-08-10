@@ -1,0 +1,47 @@
+# Bookis Smuin
+I've been writing Ruby code since 2008. I mainly focus on Rails application. Although I'm a well-rounded web dev I prefer to work in the backend. I have experience using an enourmous number of gems and tools. I use TDD and keep on current best practices, technologies, and tools.
+
+## Experience
+### Luna Sandals - Founder, CEO
+June 2010 - Present
+  
+I founded Luna Sandals with two partners. My contributions were all of the administrative, financial, and technical aspects. I've hired and manage 9 employees and taken on one small investor. I built lunasandals.com from the ground up using Ruby on Rails. Our web application has now taken well over 10,000 orders, additional features include: 
+
+ - Order fulfillment and shipping
+ - Order return/refunds 
+ - i8n
+ - Employee hour tracking
+ - State tax export
+ - Inventory
+ - Affiliate program
+ - Investor portal
+ - Tons more
+ 
+ And using many external API's such as:
+ 
+  - Braintree
+  - Mailchimp
+  - Flickr
+  - WA State department of Revenue
+  - USPS
+  - Fedex
+  - UPS
+  
+### Hausenware - Software Engineer
+
+Feb 2012 - June 2012
+
+I created an administrative tool for Hausenware to manage communications, tasks, photos, and documents between ceramics factory across the world and Starbucks. This app was built using
+
+ - Rails 3.2
+ - TDD
+ - Rspec
+ - Carrierwave
+ - Heroku
+ 
+### Stripes 39 - Software Engineer
+Built a private online college search application. The application parses millions of points of data about colleges around the country. This data drives a front end web search and static page generation
+
+### Osten Interactive - Software Engineer
+Made a couple applications, the most notable was a photo service API for an Adobe Air driven photo booth to be used at AT&T events.
+

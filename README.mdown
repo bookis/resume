@@ -17,16 +17,16 @@ I founded Luna Sandals with two partners. My contributions were all of the admin
  - Investor portal
  - Tons more
  
- And using many external API's such as:
- 
-  - Braintree
-  - Mailchimp
-  - Flickr
-  - WA State department of Revenue
-  - USPS
-  - Fedex
-  - UPS
-  
+And using many external API's such as:
+
+ - Braintree
+ - Mailchimp
+ - Flickr
+ - WA State department of Revenue
+ - USPS
+ - Fedex
+ - UPS
+   
 ### Hausenware - Software Engineer
 
 Feb 2012 - June 2012

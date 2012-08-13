@@ -41,8 +41,14 @@ I created an administrative tool for Hausenware to manage communications, tasks,
  - Heroku
  
 ### Stripes 39 - Software Engineer
+
+Sept 2010 - Fef 2011
+
 I built a private online college search application. The application parses millions of points of data about colleges around the country. This data drives a front-end web search and static page generation
 
 ### Osten Interactive - Software Engineer
+
+May 2010 - Oct 2010
+
 Made a couple applications, the most notable was a photo service API for an Adobe Air driven photo booth to be used at AT&T events.
 
